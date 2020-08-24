@@ -7,8 +7,8 @@ Instructions on obtaining access to the Twitter API can be found in the reposito
 
 Code files (To work demo, open both files and run 'Twitter HTTP Client.ipynb' first):
 
-Twitter HTTP Client.ipynb
+- Twitter HTTP Client.ipynb
 Python Notebook used to route live tweets obtained from Twitter API to a TCP socket server.
 
-Spark Streaming Applications.ipynb
+- Spark Streaming Applications.ipynb
 Python Notebook used to conduct real-time analysis on Twitter data in the TCP socket server.
