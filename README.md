@@ -6,6 +6,7 @@ Created two programs to use spark streaming for real-time Twitter analysis. The 
 Instructions on obtaining access to the Twitter API can be found in the repository in the file named: Twitter API Instructions.pptx
 
 Code files (To work demo, open both files and run 'Twitter HTTP Client.ipynb' first):
+
 Twitter HTTP Client.ipynb
 Python Notebook used to route live tweets obtained from Twitter API to a TCP socket server.
 
